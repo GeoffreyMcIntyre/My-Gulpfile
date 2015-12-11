@@ -3,7 +3,9 @@ The gulpfile I have built for my project/s. I will try update this whenever I ma
 
 ## Instructions
 gulp                    (To run gulp)
+
 gulp --type production  (To run gulp with production output)
+
 gulp test               (To run Mocha Chai tests)
 
 ## Note
