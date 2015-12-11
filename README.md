@@ -1,5 +1,5 @@
 # My-Gulpfile
-The gulpfile I have built for my project/s. I will try update this whenever I make changes
+The gulpfile I have built for my project/s. I will try to update this whenever I make changes
 
 ## Instructions
 gulp                    (To run gulp)
